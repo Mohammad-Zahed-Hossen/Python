@@ -1,0 +1,4 @@
+Soaf|345.0|34|Grocery
+Oil|456.0|34|Grocery
+Fish|345.0|34|Food
+Meat|678.0|34|Food
